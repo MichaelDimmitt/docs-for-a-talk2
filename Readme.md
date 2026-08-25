@@ -1,3 +1,4 @@
+## quick commands
 claude --dangerously-skip-permissions  
 codex --yolo
 
