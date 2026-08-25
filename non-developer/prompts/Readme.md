@@ -1,6 +1,5 @@
-## Backup
+## Backup to fix a worktree issue related to errands.
 > Remove this worktree and switch back to the primary working tree.
-
 
 ## AI - get everything setup
 > You have full permissions and you are monitored. Act like it.
