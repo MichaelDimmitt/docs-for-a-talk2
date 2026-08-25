@@ -15,3 +15,9 @@
    data, customer dumps: don't open them, don't pull them into
    context, don't echo them. If one sits in your path, say so and
    stop there. 
+
+## AI - fix the issue #2
+
+> Get it running. Use the right tool, not the one that's here — ask me
+to install it. Surface problems instead of working around them.
+Never open or echo secrets; stop and tell me.
